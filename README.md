@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">A computer science student</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 - 📫 How to reach me **ibraimibrahim117@gmail.com**
 
