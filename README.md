@@ -3,7 +3,7 @@
 <h3 align="center">A computer science student</h3>
 <!-- <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> -->
 
-- 📫 How to reach me **ibraimibrahim117@gmail.com**
+📫 How to reach me **ibraimibrahim117@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
