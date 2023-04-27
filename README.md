@@ -5,7 +5,7 @@
 
 <h3> 📫 How to reach me </h3>[ibraimibrahim117@gmail.com](mailto:ibrahimibrahim117@gmail.com) 
 
-<h3> 👨‍💻 All of my projects are available at </h3> [my projects](https://ibrahim-ibrahim.vercel.app/) </h3>
+<h3> 👨‍💻 All of my projects are available at </h3> [my projects](https://ibrahim-ibrahim.vercel.app/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
