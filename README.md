@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)]([https://](https://ibrahim-ibrahim.vercel.app/)) -->
 <div align="center">
 
-  # Hi 👋, I'm Ibrahim
+  # Hi, I'm Ibrahim
 
   ### A computer science student
 
