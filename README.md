@@ -1,9 +1,12 @@
 <!-- [![MasterHead](https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)]([https://](https://ibrahim-ibrahim.vercel.app/)) -->
-<p align="center">
-  <h1>Hi 👋, I'm Ibrahim</h1>
-  <h3>A computer science student</h3>
-</p>
-<h1 class="sr-only">hqasmei/hqasmei</h1>
+<div align="center">
+
+  # Hi 👋, I'm Ibrahim
+
+  ### A computer science student
+
+</div>
+
 #### 📫 How to reach me
 [ibraimibrahim117@gmail.com](mailto:ibrahimibrahim117@gmail.com)
 
