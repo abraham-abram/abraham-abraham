@@ -1,7 +1,6 @@
-<!-- [![MasterHead](https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)]([https://rishavchanda.io](https://ibrahim-ibrahim.vercel.app/)) -->
+<!-- [![MasterHead](https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)]([https://](https://ibrahim-ibrahim.vercel.app/)) -->
 # Hi 👋, I'm Ibrahim
 ### A computer science student
-<h1 class="sr-only">hqasmei/hqasmei</h1>
 
 #### 📫 How to reach me
 [ibraimibrahim117@gmail.com](mailto:ibrahimibrahim117@gmail.com)
