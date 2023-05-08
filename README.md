@@ -8,7 +8,7 @@
 </div>
 
 #### How to reach me
-📫 [ibraimibrahim117@gmail.com](mailto:ibrahimibrahim117@gmail.com)
+📧 [ibraimibrahim117@gmail.com](mailto:ibrahimibrahim117@gmail.com)
 
 #### All of my projects are available at
 👨‍💻 [my projects](https://ibrahim-ibrahim.vercel.app/)
